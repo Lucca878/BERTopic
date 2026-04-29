@@ -7,6 +7,7 @@ dependencies:
   - pip
   - pip:
       - bertopic==0.17.4
+      - openai
       - hdbscan
       - umap-learn
       - sentence-transformers
