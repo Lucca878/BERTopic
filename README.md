@@ -31,6 +31,10 @@ Open and run:
 
 Run cells top-to-bottom.
 
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ### Pipeline Summary
 
 1. Fit BERTopic on `data/hippocorpus.csv` text.
