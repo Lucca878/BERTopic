@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python/Jupyter artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local editor/environment files
+.env
+.venv/
+
+# Ignore all CSVs in data by default...
+data/*.csv
+
+# ...except the source dataset needed to run from step one
+!data/hippocorpus.csv
